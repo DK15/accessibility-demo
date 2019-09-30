@@ -1,6 +1,7 @@
 # a11y_demo
 
-A new Flutter application.
+A sample app to demonstrate how to use accessibility widgets and its properties to properly make the app accessible. This sample app also contains one integration test to validate accessibility using flutter driver.
+
 
 ## Getting Started
 
